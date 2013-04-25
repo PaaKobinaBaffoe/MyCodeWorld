@@ -1,0 +1,15 @@
+Public class MyCodeWorld
+
+{
+
+   Public static void main (string [] args)
+{
+      System.out.printIn("My code world @ Githuh");
+      System.out.println("**********?******************************?******");
+      System.out.println(" SIMPLE AFRICAN Upcoming Geek ");
+      System.out.println("**********?******************************?********");
+      System.out.println("");
+}
+
+
+}
