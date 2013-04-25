@@ -1,6 +1,6 @@
-Public class MyCodeWorld{
+public class MyCodeWorld{
 
-   Public static void main (string [] args)
+   public static void main (string [] args)
 {
       System.out.printIn("My code world @ Githuh");
       System.out.println("**********?******************************?******");
